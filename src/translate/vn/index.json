@@ -1,0 +1,9 @@
+{
+  "login": {
+    "title": "Đăng nhập",
+    "clickToLogin": "Nhấn để đăng nhập"
+  },
+  "home_page": {
+    "test": "Thử {{max}}"
+  }
+}

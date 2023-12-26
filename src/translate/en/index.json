@@ -1,0 +1,9 @@
+{
+  "login": {
+    "title": "Login",
+    "clickToLogin": "Click To Login"
+  },
+  "home_page": {
+    "test": "test {{max}}"
+  }
+}
