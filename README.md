@@ -7,7 +7,7 @@ VITE_APP_PORT = '5173'
 VITE_APP_TITLE= 'Pokemon'
 
 # NODE
-version: v18^
+version: 18^
 
 ## Structure Folder
 
